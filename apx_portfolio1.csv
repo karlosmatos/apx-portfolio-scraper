@@ -1,0 +1,703 @@
+0
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/dieter_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Business Software<br>
+                              Security and Privacy<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2C<br>
+                          </div>
+                                      </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Dieter</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""www.dieter-datenschutz.de"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          Provides GDPR-Compliance for VSBs.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/emocional_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Health Care<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2B<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Emocional</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""www.emocional.co"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                          <li>
+                <a href=""https://www.linkedin.com/company/emocionaltech/mycompany/"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          Provides emotional well-being of hybrid and remote teams for companies.
+Uses AI algorithms for analyzing nonverbal communication for any video-conference tool.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/overtone_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Business Software<br>
+                              Media, Entertainment and Publishing<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2C<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">overtone</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""www.overtone.ai"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                          <li>
+                <a href=""https://www.linkedin.com/company/overtonetech/"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          Finds, sorts and synthesises online content by quality for publishers, analytics and brands.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/vendimo_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Proptech<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2C<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">vendimo</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""www.vendimo.de"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                          <li>
+                <a href=""https://www.linkedin.com/company/vendimoimmobilien/"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          Vendimo operates a property platform that simplifies the sale of houses and flats between private individuals, by eliminating traditional intermediaries and providing sellers and buyers the tools they need to simply and safely transact and finance property.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/veritic_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Community and Lifestyle<br>
+                              Media, Entertainment and Publishing<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2C<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Veritic</div>
+          <ul class=""social"">
+                      </ul>
+          We connect cultural institutions with digital patrons who love their art
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/yolla_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Consumer Goods<br>
+                              Food and Beverage<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2C<br>
+                          </div>
+                                      </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Yolla</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""www.goyolla.com"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          Delivers Turkish &amp; Middle Eastern groceries straight to your door.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/hashup_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              eSports and Gaming<br>
+                              web3<br>
+                          </div>
+                                          <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Hashup</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""https://hashup.it"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                          <li>
+                <a href=""https://www.linkedin.com/company/hashupit/"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          Licensing games with blockchain and smart contracts.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/lama_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              FinTech<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2C<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Lama</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""www.letslama.com"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                          <li>
+                <a href=""https://www.linkedin.com/company/letslama/"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          The first shared virtual card where everyone pays their share with no one fronting the costs.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/bigfoot_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Community and Lifestyle<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2C<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Bigfoot</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""YourYeti.co"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          Striving to help people better explore the cities around them, find great new experiences and local events that match their unique interests, and simply live more fulfilling lives.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/mysupply_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Business Software<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2B<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">mysupply</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""https://mysupply.de/en"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                          <li>
+                <a href=""https://www.linkedin.com/company/mysupplyde"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          We unleash the full potential of procurement negotiations with an intelligent digital solution.
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/augmentedhearing_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              AR/VR<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2B<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Augmented Hearing</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""https://augmentedhearing.io"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                          <li>
+                <a href=""https://www.linkedin.com/company/69793909/admin/"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          Extends earbuds with AI to enhance speech in challenging acoustics and alleviate zoom fatigue in remote work virtual collaboration environments
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
+"<article class=""modal modal--portfolio-item"">
+  <div class=""modal--inner absolute inset-0 z-10 cursor-pointer""></div>
+  <div class=""modal--container max-w-xl flex flex-col relative bg-white z-20"">
+    <div class=""w-full h-2/5 flex flex-wrap items-center justify-center object-contain"">
+      <div class=""absolute top-6 right-6 flex items-center justify-between z-10"">
+        <div class=""close-modal cursor-pointer"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""14"" height=""14"" viewbox=""0 0 14 14"">
+            <path id=""Path_434"" data-name=""Path 434"" d=""M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"" transform=""translate(-5 -5)"" fill=""#051e30""></path>
+          </svg>
+        </div>
+      </div>
+      <img lazyload="""" class=""h-60 w-auto"" src=""https://apx.vc/app/webp-express/webp-images/uploads/resized/2022/09/duke_portfolio-600x400-c-default.png.webp"" src-set=""data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMycgaGVpZ2h0PScyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg=="" data-sizes=""auto"" alt="""">
+      <div class=""w-full flex justify-between"">
+        <button type=""button"" data-slider-button=""prev"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 prev-item text-brand-orange w-13 h-13"">
+          <svg class=""slider-arrow"" xmlns=""http://www.w3.org/2000/svg"" width=""16.97"" height=""29.699"" viewbox=""0 0 16.97 29.699"">
+	<path data-name=""Left Arrow"" d=""M591-605.507h0l14.849-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-591 620.357)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+        <button type=""button"" data-slider-button=""next"" class=""md:absolute z-10 flex items-center justify-center text-4xl transform md:-translate-y-1/2 next-item text-brand-orange w-13 h-13"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" width=""16.971"" height=""29.698"" viewbox=""0 0 16.971 29.698"">
+	<path data-name=""Right Arrow"" d=""M-572-605.508l14.85-14.849,2.121,2.121-12.728,12.728,12.728,12.728-2.121,2.121Z"" transform=""translate(-555.029 -590.659) rotate(180)"" fill=""#fe5433""></path>
+</svg>
+        </button>
+      </div>
+    </div>
+    <div class=""w-full h-3/5 bg-brand-dark-blue text-off-white py-16 px-8 overflow-scroll"">
+      <div class=""grid grid-cols-2"">
+        <div class=""pr-12"">
+                                <div class=""text-teal text-14 mt-2"">Industry</div>
+            <div class=""font-bold"">
+                              Transportation<br>
+                              Travel and Tourism<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Go-To-Market</div>
+            <div class=""font-bold"">
+                              B2B2C<br>
+                          </div>
+                                <div class=""text-teal text-14 mt-2"">Funding Stage</div>
+            <div class=""font-bold"">
+                              Pre-Seed<br>
+                          </div>
+                            </div>
+        <div>
+          <div class=""text-base font-bold uppercase font-display"">Duke</div>
+          <ul class=""social"">
+                          <li>
+                <a href=""www.call-a-duke.com"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                          <li>
+                <a href=""https://www.linkedin.com/company/call-a-duke/about/"" target=""_blank"">
+                  <img lazyload="""" src="""" class=""w-6 h-auto"">
+                </a>
+              </li>
+                      </ul>
+          delivers rental cars straight to your door
+        </div>
+      </div>
+    </div>
+  </div>
+</article>"
