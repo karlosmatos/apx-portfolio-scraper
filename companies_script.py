@@ -6,10 +6,7 @@ import os
 
 def extract_field(company, field, *args):
     try:
-        if field != "location_geographic_address":
-            return company["_source"][field]
-        else:
-            return company["_source"][field][*args[0]]
+        return company["_source"][field]
     except Exception:
         return ""
 
