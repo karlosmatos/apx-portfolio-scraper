@@ -1,15 +1,13 @@
 import json
-from re import split
 import pandas as pd
 import os
 
-def extract_field(company, field, *args):
-    try:
-        return company["_source"][field]
-    except Exception:
-        return ""
+def extract_field(company, field):
+    return company["_source"].get(field, "")
 
 def generate_dataset(company):
+    calendly_text = extract_field(company, "calendly_text")
+    linkedin_text = extract_field(company, "linkedin1_text")
     return {
         "company_name": extract_field(company, "name_text"),
         "company_website": extract_field(company, "web_homepage_text"),
@@ -22,21 +20,24 @@ def generate_dataset(company):
         "city": extract_field(company, "city_text"),
         "email": extract_field(company, "email_text"),
         "phone_number": extract_field(company, "phone_number_text"),
-        "calendly_link": "https://calendly.com/" + extract_field(company, "calendly_text"),
-        "apx_website": "https://apx.network/startup/" + extract_field(company, "Slug"),
-        "linkedin": "https://www.linkedin.com/company/"
-        + extract_field(company, "linkedin1_text"),
+        "calendly_link": f"https://calendly.com/{calendly_text}" if calendly_text else "",
+        "apx_website": f"https://apx.network/startup/{extract_field(company, 'Slug')}",
+        "linkedin": f"https://www.linkedin.com/company/{linkedin_text}" if linkedin_text else "",
     }
 
-data = json.loads(open('companies.json').read())
-output_path = 'apx_portfolio_companies_2.csv'
+if __name__ == "__main__":
+    # Load data from JSON file
+    with open('companies.json', 'r') as file:
+        data = json.load(file)
 
-for company in data["hits"]["hits"]:
-    new_dataset = generate_dataset(company)
-    print(new_dataset)
+    # Generate dataset for each company and filter out those with empty company_name
+    datasets = [generate_dataset(company) for company in data["hits"]["hits"] if company["_source"].get("name_text")]
 
-    data = pd.DataFrame(new_dataset, index=[0])
-    data = data[data['company_name'].notnull()]  # Remove rows where "company_name" is blank
+    # Convert to DataFrame
+    df = pd.DataFrame(datasets)
 
-    data.to_csv(output_path, mode='a', header=not os.path.exists(output_path))
-    
+    # Define output path
+    output_path = 'apx_portfolio_companies_2.csv'
+
+    # Save DataFrame to CSV
+    df.to_csv(output_path, index=False, encoding='utf-8')
