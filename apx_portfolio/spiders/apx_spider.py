@@ -1,10 +1,6 @@
 import scrapy
 import requests
 import json
-import os
-import pandas as pd
-
-from companies_script import extract_field
 
 
 class ApxSpiderSpider(scrapy.Spider):
@@ -59,7 +55,7 @@ class ApxSpiderSpider(scrapy.Spider):
             'x': 'qKFaTysLa8bPq7iv6gLaUQX6C8fQ5Hke/8DJViwmcG0=',
         }
 
-        response = requests.post('https://apx.network/elasticsearch/search', headers=headers, json=json_data)
+        response = requests.post('https://apx.network/elasticsearch/search', headers=headers, json=json_data, verify=False)
         with open('companies.json', 'w') as f:
             json.dump(response.json(), f)
 
@@ -73,7 +69,7 @@ class ApxSpiderSpider(scrapy.Spider):
             'x': '+aqyAAVNA9jUYJxsJT5D9s9+X9LtBD7VE1JuNXzjXTE=',
         }
 
-        response = requests.post('https://apx.network/elasticsearch/mget', headers=headers, json=json_data)
+        response = requests.post('https://apx.network/elasticsearch/mget', headers=headers, json=json_data, verify=False)
         with open('industries.json', 'w') as f:
             json.dump(response.json(), f)
 
@@ -85,6 +81,6 @@ class ApxSpiderSpider(scrapy.Spider):
             'x': 'rxpN1zUn3/QHAvRMteWJ1jRRWAhA80xaNINoAaZRT6k=',
         }
 
-        response = requests.post('https://apx.network/elasticsearch/mget', headers=headers, json=json_data)
+        response = requests.post('https://apx.network/elasticsearch/mget', headers=headers, json=json_data, verify=False)
         with open('revenue_models.json', 'w') as f:
             json.dump(response.json(), f)
