@@ -1,8 +1,14 @@
-# Create virtual environment
-python -m venv env
+# Check created virtual environment
+if (Test-Path .\env) {
+    Write-Output "Virtual environment exists"
+} else {
+    Write-Output "Virtual environment does not exist"
+    Write-Output "Creating virtual environment"
+    python -m venv env
+}
 
 # Activate virtual environment
-. .\env\Scripts\Activate.ps1
+. .\env\Scripts\activate
 
 # Install requirements
 pip install -r requirements.txt
