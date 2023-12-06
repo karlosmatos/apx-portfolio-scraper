@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Proceeding with the script."
 
 # Create virtual environment
 python3 -m venv env
@@ -17,3 +18,5 @@ python companies_script.py
 
 # Deactivate virtual environment
 deactivate
+
+echo "Script execution completed."
