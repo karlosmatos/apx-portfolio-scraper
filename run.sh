@@ -20,3 +20,6 @@ python companies_script.py
 deactivate
 
 echo "Script execution completed."
+
+# Open the output file
+open apx_portfolio_companies.csv

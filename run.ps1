@@ -21,3 +21,9 @@ python .\companies_script.py
 
 # Deactivate virtual environment
 deactivate
+
+# Write Script execution completed
+Write-Output "Script execution completed"
+
+# Open companies.csv
+Invoke-Item .\apx_portfolio_companies.csv
