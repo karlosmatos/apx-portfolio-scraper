@@ -37,7 +37,7 @@ if __name__ == "__main__":
     df = pd.DataFrame(datasets)
 
     # Define output path
-    output_path = 'apx_portfolio_companies_2.csv'
+    output_path = 'apx_portfolio_companies.csv'
 
     # Save DataFrame to CSV
     df.to_csv(output_path, index=False, encoding='utf-8')
