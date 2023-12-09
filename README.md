@@ -28,11 +28,30 @@ chmod +x run.sh
 ```
 
 ## Project Structure
-- apx_portfolio/: Contains the Scrapy spider and related files for the APX portfolio scraper.
-- companies_script.py: Script for manipulating scraped data.
-- member_script.py: Script for manipulating with mambers data. (IN TESTING)
-- members/: Directory where scraped member data is stored. (IN TESTING)
-- requirements.txt: Contains the Python packages required for this project.
+    
+    ```
+    . 
+    ├── .gitignore                  # Git ignore file 
+    ├── LICENSE                     # License file 
+    ├── README.md                   # README file 
+    ├── apx_portfolio/              # Main project folder 
+    │       ├── init.py             # Initialization file 
+    │       ├── items.py            # Items definition file 
+    │       ├── middlewares.py      # Middlewares file 
+    │       ├── pipelines.py        # Pipelines file 
+    │       ├── settings.py         # Settings file 
+    │       └── spiders/            # Spiders folder 
+    │            ├── init.py        # Initialization file 
+    │            └── apx_spider.py  # APX spider script 
+    ├── companies_script.py         # Script for manipulating company data 
+    ├── env/                        # Environment folder 
+    ├── member_script.py            # Script for manipulating member data 
+    ├── members/                    # Directory where scraped member data is stored 
+    ├── requirements.txt            # Contains the Python packages required for this project 
+    ├── run.ps1                     # PowerShell script to run the project 
+    ├── run.sh                      # Shell script to run the project 
+    └── scrapy.cfg                  # Scrapy configuration file 
+    ```
   
 ## License
-This project is licensed under the terms of the LICENSE[LICENCE] file.
+This project is licensed under the terms of the MIT license.
