@@ -29,7 +29,6 @@ chmod +x run.sh
 
 ## Project Structure
     
-    ```
     . 
     ├── .gitignore                  # Git ignore file 
     ├── LICENSE                     # License file 
@@ -51,7 +50,6 @@ chmod +x run.sh
     ├── run.ps1                     # PowerShell script to run the project 
     ├── run.sh                      # Shell script to run the project 
     └── scrapy.cfg                  # Scrapy configuration file 
-    ```
   
 ## License
 This project is licensed under the terms of the MIT license.
